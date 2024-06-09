@@ -120,4 +120,3 @@ float toIeee(uint32_t ibm)
         memcpy(&result, &ieee, sizeof(float));
         return result;
 }
-
